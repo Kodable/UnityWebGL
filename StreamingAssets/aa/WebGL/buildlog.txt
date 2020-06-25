@@ -1,47 +1,47 @@
 Warning: The formatting in this file is subject to change.
-[LoadCachedData] 1093us
+[LoadCachedData] 2418.8us
  1 items
- [GetCachedInfoFile] 150.1us
- [Read and deserialize cache info] 866.3us
+ [GetCachedInfoFile] 86.8us
+ [Read and deserialize cache info] 2274.6us
   Time spent deserializing: 0ms
   Cache hit count: 0
- [Check for changed dependencies] 44.2us
-[SaveCachedData] 31356.3us
+ [Check for changed dependencies] 33.3999999999999us
+[SaveCachedData] 20940.6us
  Saving 1 infos
- [SetupOperations] 205.7us
- [SerializingCacheInfos] 30839.8us
-[LoadCachedData] 493.699999999997us
+ [SetupOperations] 148.7us
+ [SerializingCacheInfos] 20566us
+[LoadCachedData] 356.099999999998us
  1 items
- [GetCachedInfoFile] 124.099999999999us
- [Read and deserialize cache info] 340.400000000002us
+ [GetCachedInfoFile] 79.8999999999985us
+ [Read and deserialize cache info] 250.399999999999us
   Time spent deserializing: 0ms
   Cache hit count: 0
- [Check for changed dependencies] 3.39999999999918us
-[SaveCachedData] 8606.6us
+ [Check for changed dependencies] 3.49999999999895us
+[SaveCachedData] 6468.60000000001us
  Saving 1 infos
- [SetupOperations] 151.399999999995us
- [SyncPendingSaves] 13.9000000000067us
- [SerializingCacheInfos] 8167.7us
-[CreateWorkItems] 293.800000000005us
-[CalculateHashFileOffsets] 21.7999999999989us
-[Creating Cache Entries] 1304.4us
-[Load Cached Data] 480.400000000003us
- [LoadCachedData] 477.699999999999us
+ [SetupOperations] 125.900000000001us
+ [SyncPendingSaves] 10.4999999999791us
+ [SerializingCacheInfos] 6133.39999999999us
+[CreateWorkItems] 201.300000000003us
+[CalculateHashFileOffsets] 11.9000000000256us
+[Creating Cache Entries] 880.499999999984us
+[Load Cached Data] 334.299999999985us
+ [LoadCachedData] 332.400000000007us
   1 items
-  [GetCachedInfoFile] 127.600000000001us
-  [Read and deserialize cache info] 315.399999999997us
+  [GetCachedInfoFile] 82.8000000000202us
+  [Read and deserialize cache info] 230.099999999993us
    Time spent deserializing: 0ms
    Cache hit count: 0
-  [Check for changed dependencies] 5.8000000000078us
-[CopyingCachedFiles] 3.79999999999825us
-[ArchiveItems] 35114.3us
+  [Check for changed dependencies] 2.30000000001951us
+[CopyingCachedFiles] 2.60000000000105us
+[ArchiveItems] 27832.9us
  Archiving 1 Bundles
- [Archive catalog.bundle] 19985.7us
-  [Copying From Cache Library/BuildCache/43/4331ee419f3dc9a61e959b023a83b93d/56702325a3acb904747ef0a75c45d9fe/catalog.bundle -> Library/com.unity.addressables/StreamingAssetsCopy/aa/WebGL/catalog.bundle] 710.100000000001us
-[PostArchiveProcessing] 54.5999999999935us
-[Copying To Cache] 1313.5us
- [SaveCachedData] 914.299999999997us
+ [Archive catalog.bundle] 17675.5us
+  [Copying From Cache Library/BuildCache/43/4331ee419f3dc9a61e959b023a83b93d/55efa89d54be94e134a35b6d95e49d9f/catalog.bundle -> Library/com.unity.addressables/StreamingAssetsCopy/aa/WebGL/catalog.bundle] 450.599999999998us
+[PostArchiveProcessing] 35.2000000000032us
+[Copying To Cache] 819.099999999992us
+ [SaveCachedData] 569.500000000005us
   Saving 1 infos
-  [SetupOperations] 159.900000000022us
-  [SyncPendingSaves] 6.29999999998176us
-  [SerializingCacheInfos] 522.899999999993us
+  [SetupOperations] 100.899999999996us
+  [SyncPendingSaves] 4.70000000001392us
+  [SerializingCacheInfos] 317.800000000005us
