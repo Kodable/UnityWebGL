@@ -1,0 +1,47 @@
+Warning: The formatting in this file is subject to change.
+[LoadCachedData] 1093us
+ 1 items
+ [GetCachedInfoFile] 150.1us
+ [Read and deserialize cache info] 866.3us
+  Time spent deserializing: 0ms
+  Cache hit count: 0
+ [Check for changed dependencies] 44.2us
+[SaveCachedData] 31356.3us
+ Saving 1 infos
+ [SetupOperations] 205.7us
+ [SerializingCacheInfos] 30839.8us
+[LoadCachedData] 493.699999999997us
+ 1 items
+ [GetCachedInfoFile] 124.099999999999us
+ [Read and deserialize cache info] 340.400000000002us
+  Time spent deserializing: 0ms
+  Cache hit count: 0
+ [Check for changed dependencies] 3.39999999999918us
+[SaveCachedData] 8606.6us
+ Saving 1 infos
+ [SetupOperations] 151.399999999995us
+ [SyncPendingSaves] 13.9000000000067us
+ [SerializingCacheInfos] 8167.7us
+[CreateWorkItems] 293.800000000005us
+[CalculateHashFileOffsets] 21.7999999999989us
+[Creating Cache Entries] 1304.4us
+[Load Cached Data] 480.400000000003us
+ [LoadCachedData] 477.699999999999us
+  1 items
+  [GetCachedInfoFile] 127.600000000001us
+  [Read and deserialize cache info] 315.399999999997us
+   Time spent deserializing: 0ms
+   Cache hit count: 0
+  [Check for changed dependencies] 5.8000000000078us
+[CopyingCachedFiles] 3.79999999999825us
+[ArchiveItems] 35114.3us
+ Archiving 1 Bundles
+ [Archive catalog.bundle] 19985.7us
+  [Copying From Cache Library/BuildCache/43/4331ee419f3dc9a61e959b023a83b93d/56702325a3acb904747ef0a75c45d9fe/catalog.bundle -> Library/com.unity.addressables/StreamingAssetsCopy/aa/WebGL/catalog.bundle] 710.100000000001us
+[PostArchiveProcessing] 54.5999999999935us
+[Copying To Cache] 1313.5us
+ [SaveCachedData] 914.299999999997us
+  Saving 1 infos
+  [SetupOperations] 159.900000000022us
+  [SyncPendingSaves] 6.29999999998176us
+  [SerializingCacheInfos] 522.899999999993us
