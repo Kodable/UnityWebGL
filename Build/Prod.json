@@ -1,0 +1,16 @@
+{
+"companyName": "SurfScore Inc.",
+"productName": "Kodable",
+"productVersion": "11.5.0",
+"dataUrl": "Prod.data.unityweb",
+"wasmCodeUrl": "Prod.wasm.code.unityweb",
+"wasmFrameworkUrl": "Prod.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
