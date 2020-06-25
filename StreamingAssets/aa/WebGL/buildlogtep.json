@@ -1,48 +1,48 @@
 [
-{"name": "LoadCachedData", "ph": "X", "dur": 1057.5, "tid": 1, "ts": 542, "pid": 1}
-,{"name": "1 items", "ph": "i", "tid": 1, "ts": 542, "pid": 1}
-,{"name": "GetCachedInfoFile", "ph": "X", "dur": 137.1, "tid": 1, "ts": 568, "pid": 1}
-,{"name": "Read and deserialize cache info", "ph": "X", "dur": 846.3, "tid": 1, "ts": 707, "pid": 1}
-,{"name": "Time spent deserializing: 0ms", "ph": "i", "tid": 1, "ts": 707, "pid": 1}
-,{"name": "Cache hit count: 0", "ph": "i", "tid": 1, "ts": 707, "pid": 1}
-,{"name": "Check for changed dependencies", "ph": "X", "dur": 43.2999999999999, "tid": 1, "ts": 1555, "pid": 1}
-,{"name": "SaveCachedData", "ph": "X", "dur": 33194.1, "tid": 1, "ts": 6730, "pid": 1}
-,{"name": "Saving 1 infos", "ph": "i", "tid": 1, "ts": 6730, "pid": 1}
-,{"name": "SetupOperations", "ph": "X", "dur": 2511.4, "tid": 1, "ts": 6769, "pid": 1}
-,{"name": "SerializingCacheInfos", "ph": "X", "dur": 30398.2, "tid": 1, "ts": 9522, "pid": 1}
-,{"name": "LoadCachedData", "ph": "X", "dur": 555.700000000002, "tid": 1, "ts": 42036, "pid": 1}
-,{"name": "1 items", "ph": "i", "tid": 1, "ts": 42036, "pid": 1}
-,{"name": "GetCachedInfoFile", "ph": "X", "dur": 174.900000000001, "tid": 1, "ts": 42058, "pid": 1}
-,{"name": "Read and deserialize cache info", "ph": "X", "dur": 350.8, "tid": 1, "ts": 42235, "pid": 1}
-,{"name": "Time spent deserializing: 0ms", "ph": "i", "tid": 1, "ts": 42235, "pid": 1}
-,{"name": "Cache hit count: 0", "ph": "i", "tid": 1, "ts": 42235, "pid": 1}
-,{"name": "Check for changed dependencies", "ph": "X", "dur": 3.30000000000297, "tid": 1, "ts": 42588, "pid": 1}
-,{"name": "SaveCachedData", "ph": "X", "dur": 8506.59999999999, "tid": 1, "ts": 160104, "pid": 1}
-,{"name": "Saving 1 infos", "ph": "i", "tid": 1, "ts": 160104, "pid": 1}
-,{"name": "SetupOperations", "ph": "X", "dur": 152.500000000003, "tid": 1, "ts": 160138, "pid": 1}
-,{"name": "SyncPendingSaves", "ph": "X", "dur": 14.4999999999982, "tid": 1, "ts": 160298, "pid": 1}
-,{"name": "SerializingCacheInfos", "ph": "X", "dur": 8054.59999999999, "tid": 1, "ts": 160555, "pid": 1}
-,{"name": "CreateWorkItems", "ph": "X", "dur": 293.300000000016, "tid": 1, "ts": 169003, "pid": 1}
-,{"name": "CalculateHashFileOffsets", "ph": "X", "dur": 21.4999999999748, "tid": 1, "ts": 169299, "pid": 1}
-,{"name": "Creating Cache Entries", "ph": "X", "dur": 1337.4, "tid": 1, "ts": 169322, "pid": 1}
-,{"name": "Load Cached Data", "ph": "X", "dur": 482.900000000001, "tid": 1, "ts": 170661, "pid": 1}
-,{"name": "LoadCachedData", "ph": "X", "dur": 480.100000000022, "tid": 1, "ts": 170663, "pid": 1}
-,{"name": "1 items", "ph": "i", "tid": 1, "ts": 170663, "pid": 1}
-,{"name": "GetCachedInfoFile", "ph": "X", "dur": 122.500000000002, "tid": 1, "ts": 170683, "pid": 1}
-,{"name": "Read and deserialize cache info", "ph": "X", "dur": 329.500000000024, "tid": 1, "ts": 170807, "pid": 1}
-,{"name": "Time spent deserializing: 0ms", "ph": "i", "tid": 1, "ts": 170807, "pid": 1}
-,{"name": "Cache hit count: 0", "ph": "i", "tid": 1, "ts": 170807, "pid": 1}
-,{"name": "Check for changed dependencies", "ph": "X", "dur": 3.70000000000914, "tid": 1, "ts": 171138, "pid": 1}
-,{"name": "CopyingCachedFiles", "ph": "X", "dur": 3.79999999998404, "tid": 1, "ts": 171316, "pid": 1}
-,{"name": "ArchiveItems", "ph": "X", "dur": 34695.6, "tid": 1, "ts": 171321, "pid": 1}
-,{"name": "Archiving 1 Bundles", "ph": "i", "tid": 1, "ts": 171321, "pid": 1}
-,{"name": "Archive catalog.bundle", "ph": "X", "dur": 19799.3, "tid": 102, "ts": 171367, "pid": 1}
-,{"name": "Copying From Cache Library/BuildCache/43/4331ee419f3dc9a61e959b023a83b93d/f738c2fb8bb86dba1085a2bea813bb17/catalog.bundle -> Library/com.unity.addressables/StreamingAssetsCopy/aa/WebGL/catalog.bundle", "ph": "X", "dur": 710.5, "tid": 102, "ts": 19127, "pid": 1}
-,{"name": "PostArchiveProcessing", "ph": "X", "dur": 48.8, "tid": 1, "ts": 206570, "pid": 1}
-,{"name": "Copying To Cache", "ph": "X", "dur": 1264.80000000001, "tid": 1, "ts": 206620, "pid": 1}
-,{"name": "SaveCachedData", "ph": "X", "dur": 890.100000000018, "tid": 1, "ts": 206995, "pid": 1}
-,{"name": "Saving 1 infos", "ph": "i", "tid": 1, "ts": 206995, "pid": 1}
-,{"name": "SetupOperations", "ph": "X", "dur": 164.299999999997, "tid": 1, "ts": 207023, "pid": 1}
-,{"name": "SyncPendingSaves", "ph": "X", "dur": 7.000000000005, "tid": 1, "ts": 207189, "pid": 1}
-,{"name": "SerializingCacheInfos", "ph": "X", "dur": 501.39999999999, "tid": 1, "ts": 207382, "pid": 1}
+{"name": "LoadCachedData", "ph": "X", "dur": 1054.5, "tid": 1, "ts": 577, "pid": 1}
+,{"name": "1 items", "ph": "i", "tid": 1, "ts": 577, "pid": 1}
+,{"name": "GetCachedInfoFile", "ph": "X", "dur": 132.5, "tid": 1, "ts": 605, "pid": 1}
+,{"name": "Read and deserialize cache info", "ph": "X", "dur": 845.4, "tid": 1, "ts": 739, "pid": 1}
+,{"name": "Time spent deserializing: 0ms", "ph": "i", "tid": 1, "ts": 739, "pid": 1}
+,{"name": "Cache hit count: 0", "ph": "i", "tid": 1, "ts": 739, "pid": 1}
+,{"name": "Check for changed dependencies", "ph": "X", "dur": 43.9, "tid": 1, "ts": 1586, "pid": 1}
+,{"name": "SaveCachedData", "ph": "X", "dur": 30674.3, "tid": 1, "ts": 6750, "pid": 1}
+,{"name": "Saving 1 infos", "ph": "i", "tid": 1, "ts": 6750, "pid": 1}
+,{"name": "SetupOperations", "ph": "X", "dur": 180.7, "tid": 1, "ts": 6787, "pid": 1}
+,{"name": "SerializingCacheInfos", "ph": "X", "dur": 30236, "tid": 1, "ts": 7185, "pid": 1}
+,{"name": "LoadCachedData", "ph": "X", "dur": 524.300000000004, "tid": 1, "ts": 39662, "pid": 1}
+,{"name": "1 items", "ph": "i", "tid": 1, "ts": 39662, "pid": 1}
+,{"name": "GetCachedInfoFile", "ph": "X", "dur": 125.900000000001, "tid": 1, "ts": 39690, "pid": 1}
+,{"name": "Read and deserialize cache info", "ph": "X", "dur": 364.699999999999, "tid": 1, "ts": 39818, "pid": 1}
+,{"name": "Time spent deserializing: 0ms", "ph": "i", "tid": 1, "ts": 39818, "pid": 1}
+,{"name": "Cache hit count: 0", "ph": "i", "tid": 1, "ts": 39818, "pid": 1}
+,{"name": "Check for changed dependencies", "ph": "X", "dur": 2.29999999999819, "tid": 1, "ts": 40183, "pid": 1}
+,{"name": "SaveCachedData", "ph": "X", "dur": 8339.59999999999, "tid": 1, "ts": 145049, "pid": 1}
+,{"name": "Saving 1 infos", "ph": "i", "tid": 1, "ts": 145049, "pid": 1}
+,{"name": "SetupOperations", "ph": "X", "dur": 151.400000000024, "tid": 1, "ts": 145082, "pid": 1}
+,{"name": "SyncPendingSaves", "ph": "X", "dur": 13.9000000000067, "tid": 1, "ts": 145241, "pid": 1}
+,{"name": "SerializingCacheInfos", "ph": "X", "dur": 7902.5, "tid": 1, "ts": 145484, "pid": 1}
+,{"name": "CreateWorkItems", "ph": "X", "dur": 291.599999999988, "tid": 1, "ts": 153785, "pid": 1}
+,{"name": "CalculateHashFileOffsets", "ph": "X", "dur": 17.799999999994, "tid": 1, "ts": 154079, "pid": 1}
+,{"name": "Creating Cache Entries", "ph": "X", "dur": 1429.40000000002, "tid": 1, "ts": 154098, "pid": 1}
+,{"name": "Load Cached Data", "ph": "X", "dur": 483.800000000002, "tid": 1, "ts": 155530, "pid": 1}
+,{"name": "LoadCachedData", "ph": "X", "dur": 480.400000000003, "tid": 1, "ts": 155533, "pid": 1}
+,{"name": "1 items", "ph": "i", "tid": 1, "ts": 155533, "pid": 1}
+,{"name": "GetCachedInfoFile", "ph": "X", "dur": 129.100000000022, "tid": 1, "ts": 155559, "pid": 1}
+,{"name": "Read and deserialize cache info", "ph": "X", "dur": 317.199999999985, "tid": 1, "ts": 155690, "pid": 1}
+,{"name": "Time spent deserializing: 0ms", "ph": "i", "tid": 1, "ts": 155690, "pid": 1}
+,{"name": "Cache hit count: 0", "ph": "i", "tid": 1, "ts": 155690, "pid": 1}
+,{"name": "Check for changed dependencies", "ph": "X", "dur": 3.39999999999918, "tid": 1, "ts": 156009, "pid": 1}
+,{"name": "CopyingCachedFiles", "ph": "X", "dur": 3.5000000000025, "tid": 1, "ts": 156186, "pid": 1}
+,{"name": "ArchiveItems", "ph": "X", "dur": 34423, "tid": 1, "ts": 156191, "pid": 1}
+,{"name": "Archiving 1 Bundles", "ph": "i", "tid": 1, "ts": 156191, "pid": 1}
+,{"name": "Archive catalog.bundle", "ph": "X", "dur": 19832, "tid": 102, "ts": 156218, "pid": 1}
+,{"name": "Copying From Cache Library/BuildCache/43/4331ee419f3dc9a61e959b023a83b93d/985828f95b5d41cae35edaff0607e3ba/catalog.bundle -> Library/com.unity.addressables/StreamingAssetsCopy/aa/WebGL/catalog.bundle", "ph": "X", "dur": 680.699999999998, "tid": 102, "ts": 19171, "pid": 1}
+,{"name": "PostArchiveProcessing", "ph": "X", "dur": 43.9000000000078, "tid": 1, "ts": 191156, "pid": 1}
+,{"name": "Copying To Cache", "ph": "X", "dur": 1257.10000000001, "tid": 1, "ts": 191201, "pid": 1}
+,{"name": "SaveCachedData", "ph": "X", "dur": 873.099999999994, "tid": 1, "ts": 191584, "pid": 1}
+,{"name": "Saving 1 infos", "ph": "i", "tid": 1, "ts": 191584, "pid": 1}
+,{"name": "SetupOperations", "ph": "X", "dur": 163.799999999981, "tid": 1, "ts": 191607, "pid": 1}
+,{"name": "SyncPendingSaves", "ph": "X", "dur": 6.60000000002015, "tid": 1, "ts": 191773, "pid": 1}
+,{"name": "SerializingCacheInfos", "ph": "X", "dur": 481.999999999999, "tid": 1, "ts": 191974, "pid": 1}
 ]
